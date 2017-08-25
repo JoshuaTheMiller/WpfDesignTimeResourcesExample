@@ -1,0 +1,11 @@
+﻿<UserControl x:Class="ControlLibrary.SomeUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             mc:Ignorable="d">
+    <StackPanel>
+        <TextBlock Text="Pretend I'm a header"/>
+        <CheckBox Content="I'm a styled checkbox"/>
+    </StackPanel>
+</UserControl>
